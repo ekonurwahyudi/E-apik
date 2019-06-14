@@ -1,0 +1,33 @@
+
+/*setting datatable*/
+.dataTables_wrapper .row{	
+	clear: both;
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+
+.dataTables_wrapper .dataTables_length{
+	float: left;
+	margin: 0;
+}
+
+.dataTables_wrapper .dataTables_filter{
+	float: right;
+}
+
+.dataTables_wrapper .table-bordered {
+    border-top: 1px solid #ddd;
+}
+
+.dataTables_wrapper .datatable-nomor{
+	width: 1px;
+}
+
+.dataTables_wrapper .dataTable {
+	margin-bottom: 30px;
+}
+
+.dataTables_wrapper select[multiple], select[size] {
+    height: 30px;
+    padding: 7px;
+}
